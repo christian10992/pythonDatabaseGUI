@@ -5,7 +5,9 @@ This was written as part of a project for a (non-progamming based) university pr
 
 The premise of the project is that you are the owner of a video store. Part of the project is to create a Microsoft Access database containing details concerning your inventory and customers.
 
-Since I am a benevolent business owner, and in my experience in retail, it is unreasonable to expect my employees to maintain a database.
+Wile not required by any means for the project, my rather lackluster opinion on Access sparked the intial idea to write this program.
+
+As well, based on my experience in retail, it is unreasonable to expect lower-level employees to maintain a database.
 Thus, I wanted to create an easy to use, visually driven program for employees to find, update, and enter data into the database.
 
 # A few notes
