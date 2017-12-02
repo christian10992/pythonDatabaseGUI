@@ -10,6 +10,9 @@ Wile not required by any means for the project, my rather lackluster opinion on 
 As well, based on my experience in retail, it is unreasonable to expect lower-level employees to maintain a database.
 Thus, I wanted to create an easy to use, visually driven program for employees to find, update, and enter data into the database.
 
+I think it is also worthwhile mentioning that this is purely academic and entirely hypothetical. This program lacks the features necessary
+to protect sensitive user-data and I make no intention or recommendation that this be used in a real-world, practical application.
+
 # A few notes
 ## Tkinter
 This program was written using Python 3.X.
